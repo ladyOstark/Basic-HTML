@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <title>The libby cottage services</title>
+</head>
+<body>
+    <h1>The libby cottage</h1>
+    <p>Browse our writing services to find your best fit.</p>
+    <div class="writing-service-container">
+        <div class="writing service" id="fiction">
+            <h2>Micro tales</h2>
+            <p>100-500 words aprx</p>
+            <button class="btn">Book Now</button>
+        </div>
+        </id="" goes right before the class object.>
+        <div class="writing service" id="book editing">
+            <h2>Need one last beta reader and editor?</h2>
+            <p>Elevate your manuscript to literary greatness with our book editing services.</p>
+            <button class="btn">Book Now</button>
+        </div>
+    </div>
+    <p>Review your cart before you checkout</p>
+        <div class="btn-container">
+            <button class="btn" id="view-cart-btn">View Cart</button>
+            <button class="btn" id="checkout-btn">Checkout</button>
+
+        </div>    
+</body>
+
+
+</html>
